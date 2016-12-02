@@ -1,0 +1,10 @@
+D:\Bai10\Bai10\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Bai10\Bai10\obj\x86\Debug\Bai10.frmOrder.resources
+D:\Bai10\Bai10\obj\x86\Debug\Bai10.Properties.Resources.resources
+D:\Bai10\Bai10\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Bai10\Bai10\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Bai10\Bai10\bin\Debug\Bai10.exe.config
+D:\Bai10\Bai10\bin\Debug\Bai10.exe
+D:\Bai10\Bai10\bin\Debug\Bai10.pdb
+D:\Bai10\Bai10\obj\x86\Debug\Bai10.exe
+D:\Bai10\Bai10\obj\x86\Debug\Bai10.pdb
